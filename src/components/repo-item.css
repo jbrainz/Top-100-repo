@@ -1,0 +1,13 @@
+.buttom { 
+ margin: 3rem !important;
+}
+
+.row{
+  flex-direction: column !important;
+  text-align: left;
+}
+
+.flex{
+  justify-content: space-evenly;
+  align-items: center;
+}
